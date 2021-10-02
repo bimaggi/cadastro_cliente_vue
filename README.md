@@ -1,4 +1,4 @@
-# project_vue
+# Cadastro de clientes - Vue
 
 ## Project setup
 ```
